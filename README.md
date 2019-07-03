@@ -1,3 +1,3 @@
 # java
 For CI only
-Hello
+Hello this is just a test for auto build in jenkins
